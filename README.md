@@ -35,7 +35,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## ScreenShots
 <div style="display: flex; justify-content: space-between;">
-    <img src="Images/CyberPong1.png" alt="Gameplay Screenshot" width="280"/>
-    <img src="Images/CyberPong2.png" alt="Score Screen Screenshot" width="280"/>
-   <img src="Images/CyberPong3.png" alt="Score Screen Screenshot" width="280"/>
+    <img src="Images/CyberPong1.png" alt="Gameplay Screenshot" width="270"/>
+    <img src="Images/CyberPong2.png" alt="Score Screen Screenshot" width="270"/>
+   <img src="Images/CyberPong3.png" alt="Score Screen Screenshot" width="270"/>
 </div>
