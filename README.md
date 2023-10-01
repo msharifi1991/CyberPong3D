@@ -7,8 +7,7 @@ This is a simple Unity-based Pong game. It allows you to play a classic Pong gam
 - [Getting Started](#getting-started)
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [ScreenShots](#screenShots)
 
 ## Getting Started
 
@@ -35,3 +34,8 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Submit a pull request with a clear description of your changes.
 
 ## ScreenShots
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/CyperPong1.png" alt="Gameplay Screenshot" width="400"/>
+    <img src="images/CyperPong2.png" alt="Score Screen Screenshot" width="400"/>
+   <img src="images/CyperPong3.png" alt="Score Screen Screenshot" width="400"/>
+</div>
