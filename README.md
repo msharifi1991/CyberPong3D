@@ -1,27 +1,28 @@
 # Unity CyberPong3D Game
 
-This is a simple Unity-based Pong game. It allows you to play a classic Pong game with two paddles and a bouncing ball.
-
+It's a fun simple pong game based on Unity. It allows you to play a classic game of pong with two rackets and one ball. One racket is controlled by the computer and you control the other racket.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
-- [ScreenShots](#screenShots)
+- [ScreenShots](#screenshots)
 
 ## Getting Started
 
 To play the game, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the project in Unity.
-3. Run the game by clicking the "Play" button in the Unity Editor.
+2. Open the project in Unity, which uses the C# programming language.
+3. Navigate to the starting scene or level.
+4. Run the game by clicking the "Play" button in the Unity Editor.
 
 ## Gameplay
 
 - Press the spacebar to start the game.
-- Use the left and right arrow keys to control the left paddle.
+- Use the **up** and **down** arrow keys to control the left racket.
 - The game keeps track of the score for both players.
+- The ball's movement is random, making each round of the game unique and unpredictable.
 - The first player to reach a certain score wins.
 
 ## Contributing
